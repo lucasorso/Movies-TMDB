@@ -1,0 +1,6 @@
+<resources>
+	<dimen name="poster_height">336dp</dimen>
+	<dimen name="fab_margin">19.2dp</dimen>
+	<dimen name="poster_width">216dp</dimen>
+	<dimen name="app_bar_height">300dp</dimen>
+</resources>
