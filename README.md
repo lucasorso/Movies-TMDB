@@ -6,7 +6,7 @@ na qual são listados os próximos filmes em cartaz.
 São utiliandos 3 _endpoints_: upcoming, search, details.<br />
 Os dados são persistidos para funcionamento _Offline_.<br />
 O Projeto encontra-se com as últimas atualizações do plugin do Gradle(no momento) além da inclusão do Jetack AndroidX.<br />
-NavigationComponet para navegção entre as telas.<br />
+NavigationComponet para navegação entre as telas.<br />
 Testes unitários dos serviços que consomem a API.<br />
 Proguard com Retrofit + OkHttp + Glide.<br />
 
@@ -18,4 +18,4 @@ Proguard com Retrofit + OkHttp + Glide.<br />
 - Imagens: Glide
 - Comunicacão : Retrofit + OkHttp
 - Testes: Mockito
-- Bando de dados: Realm
+- Banco de dados: Realm
